@@ -30,6 +30,7 @@ Linear Regression: This method was employed to establish a linear relationship b
 Support Vector Machine (SVM): SVM was utilized for its ability to handle high-dimensional spaces effectively. It works by finding the hyperplane that best separates different classes in the feature space. In this context, SVM helps in classifying products based on user preferences derived from their historical interactions.
 
 Random Forest Regressor: This ensemble learning method combines multiple decision trees to improve prediction accuracy and control overfitting. The Random Forest Regressor aggregates predictions from various trees, leading to more reliable recommendations by capturing complex relationships within the data.- 
+
 **Conclusion**
 
 This e-commerce product recommendation system demonstrates how machine learning techniques can be applied to enhance user experience through personalized suggestions. By utilizing linear regression, support vector machines, and random forest regressors, we aim to provide accurate recommendations tailored to individual users’ needs.
